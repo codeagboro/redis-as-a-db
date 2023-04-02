@@ -69,4 +69,4 @@ You can download RedisInsight from https://redis.com
 - The official documentation of Redis OM for NodeJS helped a great deal - https://redis.io/docs/stack/get-started/tutorials/stack-node/
 
 ## Author
-- Aghogho Daniel Bogare - [please reach out to me for any corrections or opinion](danbogare@gmail.com)
+- Riches Arise Kolizibe - [please reach out to me for any corrections or opinions or projects](richkole8@gmail.com)
